@@ -1,0 +1,3666 @@
+[
+  {
+    "kezdOra": 6,
+    "kezdPerc": 51,
+    "kezdMp": 8,
+    "vegeOra": 6,
+    "vegePerc": 54,
+    "vegeMp": 58
+  },
+  {
+    "kezdOra": 6,
+    "kezdPerc": 52,
+    "kezdMp": 30,
+    "vegeOra": 6,
+    "vegePerc": 57,
+    "vegeMp": 54
+  },
+  {
+    "kezdOra": 6,
+    "kezdPerc": 52,
+    "kezdMp": 43,
+    "vegeOra": 6,
+    "vegePerc": 53,
+    "vegeMp": 52
+  },
+  {
+    "kezdOra": 6,
+    "kezdPerc": 53,
+    "kezdMp": 45,
+    "vegeOra": 6,
+    "vegePerc": 53,
+    "vegeMp": 50
+  },
+  {
+    "kezdOra": 6,
+    "kezdPerc": 54,
+    "kezdMp": 23,
+    "vegeOra": 6,
+    "vegePerc": 58,
+    "vegeMp": 23
+  },
+  {
+    "kezdOra": 6,
+    "kezdPerc": 54,
+    "kezdMp": 59,
+    "vegeOra": 6,
+    "vegePerc": 59,
+    "vegeMp": 7
+  },
+  {
+    "kezdOra": 6,
+    "kezdPerc": 55,
+    "kezdMp": 6,
+    "vegeOra": 7,
+    "vegePerc": 0,
+    "vegeMp": 39
+  },
+  {
+    "kezdOra": 6,
+    "kezdPerc": 56,
+    "kezdMp": 14,
+    "vegeOra": 7,
+    "vegePerc": 0,
+    "vegeMp": 32
+  },
+  {
+    "kezdOra": 6,
+    "kezdPerc": 57,
+    "kezdMp": 11,
+    "vegeOra": 7,
+    "vegePerc": 0,
+    "vegeMp": 57
+  },
+  {
+    "kezdOra": 6,
+    "kezdPerc": 58,
+    "kezdMp": 15,
+    "vegeOra": 7,
+    "vegePerc": 0,
+    "vegeMp": 36
+  },
+  {
+    "kezdOra": 6,
+    "kezdPerc": 58,
+    "kezdMp": 51,
+    "vegeOra": 7,
+    "vegePerc": 1,
+    "vegeMp": 9
+  },
+  {
+    "kezdOra": 6,
+    "kezdPerc": 59,
+    "kezdMp": 26,
+    "vegeOra": 7,
+    "vegePerc": 1,
+    "vegeMp": 40
+  },
+  {
+    "kezdOra": 6,
+    "kezdPerc": 59,
+    "kezdMp": 34,
+    "vegeOra": 6,
+    "vegePerc": 59,
+    "vegeMp": 39
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 0,
+    "kezdMp": 11,
+    "vegeOra": 7,
+    "vegePerc": 1,
+    "vegeMp": 28
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 1,
+    "kezdMp": 29,
+    "vegeOra": 7,
+    "vegePerc": 3,
+    "vegeMp": 23
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 2,
+    "kezdMp": 47,
+    "vegeOra": 7,
+    "vegePerc": 4,
+    "vegeMp": 22
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 3,
+    "kezdMp": 35,
+    "vegeOra": 7,
+    "vegePerc": 4,
+    "vegeMp": 59
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 4,
+    "kezdMp": 13,
+    "vegeOra": 7,
+    "vegePerc": 5,
+    "vegeMp": 41
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 5,
+    "kezdMp": 16,
+    "vegeOra": 7,
+    "vegePerc": 10,
+    "vegeMp": 30
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 6,
+    "kezdMp": 38,
+    "vegeOra": 7,
+    "vegePerc": 9,
+    "vegeMp": 11
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 7,
+    "kezdMp": 2,
+    "vegeOra": 7,
+    "vegePerc": 8,
+    "vegeMp": 15
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 7,
+    "kezdMp": 26,
+    "vegeOra": 7,
+    "vegePerc": 12,
+    "vegeMp": 31
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 8,
+    "kezdMp": 46,
+    "vegeOra": 7,
+    "vegePerc": 12,
+    "vegeMp": 31
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 9,
+    "kezdMp": 0,
+    "vegeOra": 7,
+    "vegePerc": 13,
+    "vegeMp": 26
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 9,
+    "kezdMp": 43,
+    "vegeOra": 7,
+    "vegePerc": 14,
+    "vegeMp": 51
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 10,
+    "kezdMp": 41,
+    "vegeOra": 7,
+    "vegePerc": 13,
+    "vegeMp": 56
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 10,
+    "kezdMp": 52,
+    "vegeOra": 7,
+    "vegePerc": 15,
+    "vegeMp": 4
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 11,
+    "kezdMp": 35,
+    "vegeOra": 7,
+    "vegePerc": 13,
+    "vegeMp": 16
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 12,
+    "kezdMp": 47,
+    "vegeOra": 7,
+    "vegePerc": 16,
+    "vegeMp": 12
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 13,
+    "kezdMp": 13,
+    "vegeOra": 7,
+    "vegePerc": 16,
+    "vegeMp": 4
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 13,
+    "kezdMp": 26,
+    "vegeOra": 7,
+    "vegePerc": 18,
+    "vegeMp": 4
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 14,
+    "kezdMp": 8,
+    "vegeOra": 7,
+    "vegePerc": 18,
+    "vegeMp": 28
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 14,
+    "kezdMp": 39,
+    "vegeOra": 7,
+    "vegePerc": 15,
+    "vegeMp": 51
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 15,
+    "kezdMp": 3,
+    "vegeOra": 7,
+    "vegePerc": 15,
+    "vegeMp": 3
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 15,
+    "kezdMp": 54,
+    "vegeOra": 7,
+    "vegePerc": 19,
+    "vegeMp": 16
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 16,
+    "kezdMp": 2,
+    "vegeOra": 7,
+    "vegePerc": 20,
+    "vegeMp": 32
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 16,
+    "kezdMp": 10,
+    "vegeOra": 7,
+    "vegePerc": 20,
+    "vegeMp": 24
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 16,
+    "kezdMp": 39,
+    "vegeOra": 7,
+    "vegePerc": 20,
+    "vegeMp": 57
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 17,
+    "kezdMp": 45,
+    "vegeOra": 7,
+    "vegePerc": 20,
+    "vegeMp": 2
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 18,
+    "kezdMp": 51,
+    "vegeOra": 7,
+    "vegePerc": 22,
+    "vegeMp": 28
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 19,
+    "kezdMp": 33,
+    "vegeOra": 7,
+    "vegePerc": 24,
+    "vegeMp": 27
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 20,
+    "kezdMp": 39,
+    "vegeOra": 7,
+    "vegePerc": 25,
+    "vegeMp": 24
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 21,
+    "kezdMp": 17,
+    "vegeOra": 7,
+    "vegePerc": 24,
+    "vegeMp": 9
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 21,
+    "kezdMp": 18,
+    "vegeOra": 7,
+    "vegePerc": 26,
+    "vegeMp": 16
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 21,
+    "kezdMp": 51,
+    "vegeOra": 7,
+    "vegePerc": 25,
+    "vegeMp": 22
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 22,
+    "kezdMp": 50,
+    "vegeOra": 7,
+    "vegePerc": 24,
+    "vegeMp": 4
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 23,
+    "kezdMp": 6,
+    "vegeOra": 7,
+    "vegePerc": 23,
+    "vegeMp": 48
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 23,
+    "kezdMp": 48,
+    "vegeOra": 7,
+    "vegePerc": 27,
+    "vegeMp": 19
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 24,
+    "kezdMp": 35,
+    "vegeOra": 7,
+    "vegePerc": 26,
+    "vegeMp": 28
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 25,
+    "kezdMp": 43,
+    "vegeOra": 7,
+    "vegePerc": 30,
+    "vegeMp": 38
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 25,
+    "kezdMp": 58,
+    "vegeOra": 7,
+    "vegePerc": 31,
+    "vegeMp": 7
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 26,
+    "kezdMp": 31,
+    "vegeOra": 7,
+    "vegePerc": 30,
+    "vegeMp": 11
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 27,
+    "kezdMp": 4,
+    "vegeOra": 7,
+    "vegePerc": 30,
+    "vegeMp": 4
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 28,
+    "kezdMp": 7,
+    "vegeOra": 7,
+    "vegePerc": 29,
+    "vegeMp": 37
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 28,
+    "kezdMp": 51,
+    "vegeOra": 7,
+    "vegePerc": 31,
+    "vegeMp": 31
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 29,
+    "kezdMp": 35,
+    "vegeOra": 7,
+    "vegePerc": 34,
+    "vegeMp": 58
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 30,
+    "kezdMp": 42,
+    "vegeOra": 7,
+    "vegePerc": 34,
+    "vegeMp": 45
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 30,
+    "kezdMp": 58,
+    "vegeOra": 7,
+    "vegePerc": 33,
+    "vegeMp": 45
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 31,
+    "kezdMp": 10,
+    "vegeOra": 7,
+    "vegePerc": 33,
+    "vegeMp": 24
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 32,
+    "kezdMp": 13,
+    "vegeOra": 7,
+    "vegePerc": 33,
+    "vegeMp": 29
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 32,
+    "kezdMp": 37,
+    "vegeOra": 7,
+    "vegePerc": 36,
+    "vegeMp": 58
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 32,
+    "kezdMp": 38,
+    "vegeOra": 7,
+    "vegePerc": 36,
+    "vegeMp": 33
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 33,
+    "kezdMp": 42,
+    "vegeOra": 7,
+    "vegePerc": 35,
+    "vegeMp": 46
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 34,
+    "kezdMp": 35,
+    "vegeOra": 7,
+    "vegePerc": 38,
+    "vegeMp": 1
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 34,
+    "kezdMp": 47,
+    "vegeOra": 7,
+    "vegePerc": 36,
+    "vegeMp": 32
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 35,
+    "kezdMp": 25,
+    "vegeOra": 7,
+    "vegePerc": 36,
+    "vegeMp": 7
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 35,
+    "kezdMp": 51,
+    "vegeOra": 7,
+    "vegePerc": 39,
+    "vegeMp": 53
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 37,
+    "kezdMp": 13,
+    "vegeOra": 7,
+    "vegePerc": 40,
+    "vegeMp": 40
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 37,
+    "kezdMp": 32,
+    "vegeOra": 7,
+    "vegePerc": 40,
+    "vegeMp": 20
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 38,
+    "kezdMp": 39,
+    "vegeOra": 7,
+    "vegePerc": 41,
+    "vegeMp": 11
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 39,
+    "kezdMp": 2,
+    "vegeOra": 7,
+    "vegePerc": 43,
+    "vegeMp": 35
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 39,
+    "kezdMp": 5,
+    "vegeOra": 7,
+    "vegePerc": 39,
+    "vegeMp": 42
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 39,
+    "kezdMp": 29,
+    "vegeOra": 7,
+    "vegePerc": 41,
+    "vegeMp": 44
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 40,
+    "kezdMp": 15,
+    "vegeOra": 7,
+    "vegePerc": 42,
+    "vegeMp": 43
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 41,
+    "kezdMp": 12,
+    "vegeOra": 7,
+    "vegePerc": 43,
+    "vegeMp": 41
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 42,
+    "kezdMp": 29,
+    "vegeOra": 7,
+    "vegePerc": 43,
+    "vegeMp": 23
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 42,
+    "kezdMp": 34,
+    "vegeOra": 7,
+    "vegePerc": 45,
+    "vegeMp": 48
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 42,
+    "kezdMp": 35,
+    "vegeOra": 7,
+    "vegePerc": 46,
+    "vegeMp": 57
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 43,
+    "kezdMp": 18,
+    "vegeOra": 7,
+    "vegePerc": 47,
+    "vegeMp": 29
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 43,
+    "kezdMp": 37,
+    "vegeOra": 7,
+    "vegePerc": 46,
+    "vegeMp": 39
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 44,
+    "kezdMp": 27,
+    "vegeOra": 7,
+    "vegePerc": 47,
+    "vegeMp": 25
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 45,
+    "kezdMp": 9,
+    "vegeOra": 7,
+    "vegePerc": 48,
+    "vegeMp": 33
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 46,
+    "kezdMp": 20,
+    "vegeOra": 7,
+    "vegePerc": 51,
+    "vegeMp": 44
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 46,
+    "kezdMp": 49,
+    "vegeOra": 7,
+    "vegePerc": 49,
+    "vegeMp": 21
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 47,
+    "kezdMp": 24,
+    "vegeOra": 7,
+    "vegePerc": 47,
+    "vegeMp": 31
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 48,
+    "kezdMp": 2,
+    "vegeOra": 7,
+    "vegePerc": 48,
+    "vegeMp": 7
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 48,
+    "kezdMp": 48,
+    "vegeOra": 7,
+    "vegePerc": 51,
+    "vegeMp": 31
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 49,
+    "kezdMp": 5,
+    "vegeOra": 7,
+    "vegePerc": 51,
+    "vegeMp": 55
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 49,
+    "kezdMp": 25,
+    "vegeOra": 7,
+    "vegePerc": 52,
+    "vegeMp": 11
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 50,
+    "kezdMp": 37,
+    "vegeOra": 7,
+    "vegePerc": 54,
+    "vegeMp": 54
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 51,
+    "kezdMp": 47,
+    "vegeOra": 7,
+    "vegePerc": 54,
+    "vegeMp": 43
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 53,
+    "kezdMp": 10,
+    "vegeOra": 7,
+    "vegePerc": 56,
+    "vegeMp": 41
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 53,
+    "kezdMp": 46,
+    "vegeOra": 7,
+    "vegePerc": 57,
+    "vegeMp": 48
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 54,
+    "kezdMp": 6,
+    "vegeOra": 7,
+    "vegePerc": 54,
+    "vegeMp": 44
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 54,
+    "kezdMp": 35,
+    "vegeOra": 7,
+    "vegePerc": 55,
+    "vegeMp": 16
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 55,
+    "kezdMp": 34,
+    "vegeOra": 8,
+    "vegePerc": 0,
+    "vegeMp": 30
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 56,
+    "kezdMp": 4,
+    "vegeOra": 7,
+    "vegePerc": 57,
+    "vegeMp": 19
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 56,
+    "kezdMp": 59,
+    "vegeOra": 8,
+    "vegePerc": 1,
+    "vegeMp": 36
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 57,
+    "kezdMp": 36,
+    "vegeOra": 7,
+    "vegePerc": 59,
+    "vegeMp": 59
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 58,
+    "kezdMp": 5,
+    "vegeOra": 8,
+    "vegePerc": 1,
+    "vegeMp": 39
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 58,
+    "kezdMp": 33,
+    "vegeOra": 7,
+    "vegePerc": 58,
+    "vegeMp": 47
+  },
+  {
+    "kezdOra": 7,
+    "kezdPerc": 59,
+    "kezdMp": 29,
+    "vegeOra": 8,
+    "vegePerc": 4,
+    "vegeMp": 17
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 0,
+    "kezdMp": 28,
+    "vegeOra": 8,
+    "vegePerc": 5,
+    "vegeMp": 56
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 1,
+    "kezdMp": 49,
+    "vegeOra": 8,
+    "vegePerc": 6,
+    "vegeMp": 37
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 3,
+    "kezdMp": 14,
+    "vegeOra": 8,
+    "vegePerc": 6,
+    "vegeMp": 27
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 4,
+    "kezdMp": 18,
+    "vegeOra": 8,
+    "vegePerc": 6,
+    "vegeMp": 51
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 5,
+    "kezdMp": 8,
+    "vegeOra": 8,
+    "vegePerc": 6,
+    "vegeMp": 32
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 6,
+    "kezdMp": 9,
+    "vegeOra": 8,
+    "vegePerc": 10,
+    "vegeMp": 57
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 6,
+    "kezdMp": 31,
+    "vegeOra": 8,
+    "vegePerc": 10,
+    "vegeMp": 41
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 7,
+    "kezdMp": 22,
+    "vegeOra": 8,
+    "vegePerc": 10,
+    "vegeMp": 35
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 8,
+    "kezdMp": 34,
+    "vegeOra": 8,
+    "vegePerc": 9,
+    "vegeMp": 59
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 9,
+    "kezdMp": 39,
+    "vegeOra": 8,
+    "vegePerc": 12,
+    "vegeMp": 43
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 10,
+    "kezdMp": 42,
+    "vegeOra": 8,
+    "vegePerc": 13,
+    "vegeMp": 30
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 11,
+    "kezdMp": 26,
+    "vegeOra": 8,
+    "vegePerc": 15,
+    "vegeMp": 43
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 11,
+    "kezdMp": 52,
+    "vegeOra": 8,
+    "vegePerc": 17,
+    "vegeMp": 13
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 12,
+    "kezdMp": 4,
+    "vegeOra": 8,
+    "vegePerc": 16,
+    "vegeMp": 51
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 13,
+    "kezdMp": 13,
+    "vegeOra": 8,
+    "vegePerc": 17,
+    "vegeMp": 38
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 14,
+    "kezdMp": 19,
+    "vegeOra": 8,
+    "vegePerc": 15,
+    "vegeMp": 33
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 15,
+    "kezdMp": 4,
+    "vegeOra": 8,
+    "vegePerc": 18,
+    "vegeMp": 4
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 15,
+    "kezdMp": 57,
+    "vegeOra": 8,
+    "vegePerc": 20,
+    "vegeMp": 39
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 16,
+    "kezdMp": 1,
+    "vegeOra": 8,
+    "vegePerc": 20,
+    "vegeMp": 12
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 17,
+    "kezdMp": 1,
+    "vegeOra": 8,
+    "vegePerc": 20,
+    "vegeMp": 40
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 17,
+    "kezdMp": 28,
+    "vegeOra": 8,
+    "vegePerc": 22,
+    "vegeMp": 17
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 17,
+    "kezdMp": 33,
+    "vegeOra": 8,
+    "vegePerc": 19,
+    "vegeMp": 1
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 18,
+    "kezdMp": 19,
+    "vegeOra": 8,
+    "vegePerc": 19,
+    "vegeMp": 25
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 19,
+    "kezdMp": 40,
+    "vegeOra": 8,
+    "vegePerc": 24,
+    "vegeMp": 51
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 20,
+    "kezdMp": 18,
+    "vegeOra": 8,
+    "vegePerc": 21,
+    "vegeMp": 31
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 20,
+    "kezdMp": 38,
+    "vegeOra": 8,
+    "vegePerc": 24,
+    "vegeMp": 24
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 21,
+    "kezdMp": 49,
+    "vegeOra": 8,
+    "vegePerc": 22,
+    "vegeMp": 55
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 23,
+    "kezdMp": 6,
+    "vegeOra": 8,
+    "vegePerc": 25,
+    "vegeMp": 54
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 24,
+    "kezdMp": 20,
+    "vegeOra": 8,
+    "vegePerc": 29,
+    "vegeMp": 40
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 24,
+    "kezdMp": 49,
+    "vegeOra": 8,
+    "vegePerc": 28,
+    "vegeMp": 51
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 24,
+    "kezdMp": 53,
+    "vegeOra": 8,
+    "vegePerc": 27,
+    "vegeMp": 42
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 25,
+    "kezdMp": 6,
+    "vegeOra": 8,
+    "vegePerc": 25,
+    "vegeMp": 37
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 25,
+    "kezdMp": 47,
+    "vegeOra": 8,
+    "vegePerc": 29,
+    "vegeMp": 12
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 26,
+    "kezdMp": 31,
+    "vegeOra": 8,
+    "vegePerc": 28,
+    "vegeMp": 50
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 27,
+    "kezdMp": 38,
+    "vegeOra": 8,
+    "vegePerc": 31,
+    "vegeMp": 42
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 28,
+    "kezdMp": 43,
+    "vegeOra": 8,
+    "vegePerc": 33,
+    "vegeMp": 27
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 28,
+    "kezdMp": 49,
+    "vegeOra": 8,
+    "vegePerc": 34,
+    "vegeMp": 10
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 30,
+    "kezdMp": 11,
+    "vegeOra": 8,
+    "vegePerc": 31,
+    "vegeMp": 31
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 30,
+    "kezdMp": 24,
+    "vegeOra": 8,
+    "vegePerc": 33,
+    "vegeMp": 1
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 30,
+    "kezdMp": 29,
+    "vegeOra": 8,
+    "vegePerc": 30,
+    "vegeMp": 37
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 30,
+    "kezdMp": 53,
+    "vegeOra": 8,
+    "vegePerc": 34,
+    "vegeMp": 26
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 31,
+    "kezdMp": 12,
+    "vegeOra": 8,
+    "vegePerc": 34,
+    "vegeMp": 11
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 31,
+    "kezdMp": 56,
+    "vegeOra": 8,
+    "vegePerc": 35,
+    "vegeMp": 0
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 32,
+    "kezdMp": 11,
+    "vegeOra": 8,
+    "vegePerc": 35,
+    "vegeMp": 40
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 32,
+    "kezdMp": 33,
+    "vegeOra": 8,
+    "vegePerc": 35,
+    "vegeMp": 27
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 33,
+    "kezdMp": 51,
+    "vegeOra": 8,
+    "vegePerc": 39,
+    "vegeMp": 22
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 35,
+    "kezdMp": 1,
+    "vegeOra": 8,
+    "vegePerc": 37,
+    "vegeMp": 34
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 35,
+    "kezdMp": 45,
+    "vegeOra": 8,
+    "vegePerc": 41,
+    "vegeMp": 11
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 36,
+    "kezdMp": 43,
+    "vegeOra": 8,
+    "vegePerc": 39,
+    "vegeMp": 52
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 38,
+    "kezdMp": 1,
+    "vegeOra": 8,
+    "vegePerc": 43,
+    "vegeMp": 42
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 39,
+    "kezdMp": 5,
+    "vegeOra": 8,
+    "vegePerc": 43,
+    "vegeMp": 18
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 39,
+    "kezdMp": 51,
+    "vegeOra": 8,
+    "vegePerc": 44,
+    "vegeMp": 23
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 40,
+    "kezdMp": 2,
+    "vegeOra": 8,
+    "vegePerc": 41,
+    "vegeMp": 56
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 41,
+    "kezdMp": 17,
+    "vegeOra": 8,
+    "vegePerc": 45,
+    "vegeMp": 42
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 42,
+    "kezdMp": 5,
+    "vegeOra": 8,
+    "vegePerc": 45,
+    "vegeMp": 26
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 42,
+    "kezdMp": 13,
+    "vegeOra": 8,
+    "vegePerc": 42,
+    "vegeMp": 29
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 42,
+    "kezdMp": 14,
+    "vegeOra": 8,
+    "vegePerc": 45,
+    "vegeMp": 53
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 42,
+    "kezdMp": 37,
+    "vegeOra": 8,
+    "vegePerc": 47,
+    "vegeMp": 47
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 42,
+    "kezdMp": 50,
+    "vegeOra": 8,
+    "vegePerc": 45,
+    "vegeMp": 41
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 44,
+    "kezdMp": 4,
+    "vegeOra": 8,
+    "vegePerc": 49,
+    "vegeMp": 1
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 45,
+    "kezdMp": 19,
+    "vegeOra": 8,
+    "vegePerc": 48,
+    "vegeMp": 16
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 45,
+    "kezdMp": 48,
+    "vegeOra": 8,
+    "vegePerc": 48,
+    "vegeMp": 16
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 46,
+    "kezdMp": 58,
+    "vegeOra": 8,
+    "vegePerc": 47,
+    "vegeMp": 37
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 48,
+    "kezdMp": 23,
+    "vegeOra": 8,
+    "vegePerc": 50,
+    "vegeMp": 44
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 49,
+    "kezdMp": 22,
+    "vegeOra": 8,
+    "vegePerc": 52,
+    "vegeMp": 29
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 50,
+    "kezdMp": 32,
+    "vegeOra": 8,
+    "vegePerc": 55,
+    "vegeMp": 22
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 51,
+    "kezdMp": 12,
+    "vegeOra": 8,
+    "vegePerc": 56,
+    "vegeMp": 5
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 51,
+    "kezdMp": 45,
+    "vegeOra": 8,
+    "vegePerc": 55,
+    "vegeMp": 19
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 51,
+    "kezdMp": 52,
+    "vegeOra": 8,
+    "vegePerc": 52,
+    "vegeMp": 37
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 53,
+    "kezdMp": 14,
+    "vegeOra": 8,
+    "vegePerc": 54,
+    "vegeMp": 52
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 54,
+    "kezdMp": 39,
+    "vegeOra": 8,
+    "vegePerc": 56,
+    "vegeMp": 53
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 54,
+    "kezdMp": 42,
+    "vegeOra": 8,
+    "vegePerc": 57,
+    "vegeMp": 42
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 55,
+    "kezdMp": 33,
+    "vegeOra": 8,
+    "vegePerc": 55,
+    "vegeMp": 56
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 56,
+    "kezdMp": 39,
+    "vegeOra": 9,
+    "vegePerc": 1,
+    "vegeMp": 51
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 56,
+    "kezdMp": 53,
+    "vegeOra": 9,
+    "vegePerc": 0,
+    "vegeMp": 7
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 58,
+    "kezdMp": 1,
+    "vegeOra": 9,
+    "vegePerc": 2,
+    "vegeMp": 27
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 58,
+    "kezdMp": 12,
+    "vegeOra": 9,
+    "vegePerc": 2,
+    "vegeMp": 5
+  },
+  {
+    "kezdOra": 8,
+    "kezdPerc": 59,
+    "kezdMp": 19,
+    "vegeOra": 9,
+    "vegePerc": 1,
+    "vegeMp": 20
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 0,
+    "kezdMp": 45,
+    "vegeOra": 9,
+    "vegePerc": 2,
+    "vegeMp": 6
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 2,
+    "kezdMp": 7,
+    "vegeOra": 9,
+    "vegePerc": 6,
+    "vegeMp": 1
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 2,
+    "kezdMp": 53,
+    "vegeOra": 9,
+    "vegePerc": 7,
+    "vegeMp": 29
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 3,
+    "kezdMp": 59,
+    "vegeOra": 9,
+    "vegePerc": 8,
+    "vegeMp": 42
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 4,
+    "kezdMp": 7,
+    "vegeOra": 9,
+    "vegePerc": 5,
+    "vegeMp": 40
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 4,
+    "kezdMp": 32,
+    "vegeOra": 9,
+    "vegePerc": 6,
+    "vegeMp": 49
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 5,
+    "kezdMp": 4,
+    "vegeOra": 9,
+    "vegePerc": 8,
+    "vegeMp": 57
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 5,
+    "kezdMp": 53,
+    "vegeOra": 9,
+    "vegePerc": 8,
+    "vegeMp": 27
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 6,
+    "kezdMp": 22,
+    "vegeOra": 9,
+    "vegePerc": 8,
+    "vegeMp": 49
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 6,
+    "kezdMp": 26,
+    "vegeOra": 9,
+    "vegePerc": 10,
+    "vegeMp": 4
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 6,
+    "kezdMp": 46,
+    "vegeOra": 9,
+    "vegePerc": 10,
+    "vegeMp": 10
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 6,
+    "kezdMp": 55,
+    "vegeOra": 9,
+    "vegePerc": 10,
+    "vegeMp": 5
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 8,
+    "kezdMp": 7,
+    "vegeOra": 9,
+    "vegePerc": 11,
+    "vegeMp": 25
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 8,
+    "kezdMp": 20,
+    "vegeOra": 9,
+    "vegePerc": 10,
+    "vegeMp": 59
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 9,
+    "kezdMp": 4,
+    "vegeOra": 9,
+    "vegePerc": 13,
+    "vegeMp": 12
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 9,
+    "kezdMp": 27,
+    "vegeOra": 9,
+    "vegePerc": 12,
+    "vegeMp": 43
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 9,
+    "kezdMp": 43,
+    "vegeOra": 9,
+    "vegePerc": 9,
+    "vegeMp": 49
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 10,
+    "kezdMp": 42,
+    "vegeOra": 9,
+    "vegePerc": 13,
+    "vegeMp": 38
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 11,
+    "kezdMp": 43,
+    "vegeOra": 9,
+    "vegePerc": 12,
+    "vegeMp": 27
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 12,
+    "kezdMp": 43,
+    "vegeOra": 9,
+    "vegePerc": 14,
+    "vegeMp": 44
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 15,
+    "kezdMp": 26,
+    "vegeOra": 9,
+    "vegePerc": 19,
+    "vegeMp": 11
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 15,
+    "kezdMp": 36,
+    "vegeOra": 9,
+    "vegePerc": 17,
+    "vegeMp": 30
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 15,
+    "kezdMp": 45,
+    "vegeOra": 9,
+    "vegePerc": 19,
+    "vegeMp": 7
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 16,
+    "kezdMp": 22,
+    "vegeOra": 9,
+    "vegePerc": 19,
+    "vegeMp": 1
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 17,
+    "kezdMp": 31,
+    "vegeOra": 9,
+    "vegePerc": 17,
+    "vegeMp": 51
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 18,
+    "kezdMp": 17,
+    "vegeOra": 9,
+    "vegePerc": 20,
+    "vegeMp": 39
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 18,
+    "kezdMp": 25,
+    "vegeOra": 9,
+    "vegePerc": 20,
+    "vegeMp": 39
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 18,
+    "kezdMp": 45,
+    "vegeOra": 9,
+    "vegePerc": 23,
+    "vegeMp": 31
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 19,
+    "kezdMp": 49,
+    "vegeOra": 9,
+    "vegePerc": 24,
+    "vegeMp": 48
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 20,
+    "kezdMp": 2,
+    "vegeOra": 9,
+    "vegePerc": 23,
+    "vegeMp": 50
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 20,
+    "kezdMp": 58,
+    "vegeOra": 9,
+    "vegePerc": 22,
+    "vegeMp": 22
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 21,
+    "kezdMp": 45,
+    "vegeOra": 9,
+    "vegePerc": 21,
+    "vegeMp": 45
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 22,
+    "kezdMp": 44,
+    "vegeOra": 9,
+    "vegePerc": 23,
+    "vegeMp": 33
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 23,
+    "kezdMp": 59,
+    "vegeOra": 9,
+    "vegePerc": 26,
+    "vegeMp": 28
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 24,
+    "kezdMp": 0,
+    "vegeOra": 9,
+    "vegePerc": 28,
+    "vegeMp": 6
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 24,
+    "kezdMp": 4,
+    "vegeOra": 9,
+    "vegePerc": 28,
+    "vegeMp": 2
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 24,
+    "kezdMp": 45,
+    "vegeOra": 9,
+    "vegePerc": 26,
+    "vegeMp": 32
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 25,
+    "kezdMp": 53,
+    "vegeOra": 9,
+    "vegePerc": 28,
+    "vegeMp": 43
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 25,
+    "kezdMp": 53,
+    "vegeOra": 9,
+    "vegePerc": 27,
+    "vegeMp": 51
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 26,
+    "kezdMp": 37,
+    "vegeOra": 9,
+    "vegePerc": 29,
+    "vegeMp": 24
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 27,
+    "kezdMp": 36,
+    "vegeOra": 9,
+    "vegePerc": 27,
+    "vegeMp": 55
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 27,
+    "kezdMp": 36,
+    "vegeOra": 9,
+    "vegePerc": 29,
+    "vegeMp": 19
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 28,
+    "kezdMp": 24,
+    "vegeOra": 9,
+    "vegePerc": 28,
+    "vegeMp": 53
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 28,
+    "kezdMp": 46,
+    "vegeOra": 9,
+    "vegePerc": 33,
+    "vegeMp": 14
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 29,
+    "kezdMp": 43,
+    "vegeOra": 9,
+    "vegePerc": 34,
+    "vegeMp": 13
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 30,
+    "kezdMp": 9,
+    "vegeOra": 9,
+    "vegePerc": 31,
+    "vegeMp": 14
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 31,
+    "kezdMp": 30,
+    "vegeOra": 9,
+    "vegePerc": 35,
+    "vegeMp": 55
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 32,
+    "kezdMp": 2,
+    "vegeOra": 9,
+    "vegePerc": 32,
+    "vegeMp": 8
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 33,
+    "kezdMp": 8,
+    "vegeOra": 9,
+    "vegePerc": 35,
+    "vegeMp": 6
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 33,
+    "kezdMp": 24,
+    "vegeOra": 9,
+    "vegePerc": 33,
+    "vegeMp": 45
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 34,
+    "kezdMp": 2,
+    "vegeOra": 9,
+    "vegePerc": 34,
+    "vegeMp": 3
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 34,
+    "kezdMp": 13,
+    "vegeOra": 9,
+    "vegePerc": 38,
+    "vegeMp": 50
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 35,
+    "kezdMp": 31,
+    "vegeOra": 9,
+    "vegePerc": 37,
+    "vegeMp": 10
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 35,
+    "kezdMp": 55,
+    "vegeOra": 9,
+    "vegePerc": 39,
+    "vegeMp": 28
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 36,
+    "kezdMp": 8,
+    "vegeOra": 9,
+    "vegePerc": 39,
+    "vegeMp": 44
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 36,
+    "kezdMp": 44,
+    "vegeOra": 9,
+    "vegePerc": 37,
+    "vegeMp": 54
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 37,
+    "kezdMp": 44,
+    "vegeOra": 9,
+    "vegePerc": 41,
+    "vegeMp": 36
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 39,
+    "kezdMp": 5,
+    "vegeOra": 9,
+    "vegePerc": 41,
+    "vegeMp": 52
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 39,
+    "kezdMp": 51,
+    "vegeOra": 9,
+    "vegePerc": 43,
+    "vegeMp": 46
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 40,
+    "kezdMp": 54,
+    "vegeOra": 9,
+    "vegePerc": 42,
+    "vegeMp": 45
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 40,
+    "kezdMp": 56,
+    "vegeOra": 9,
+    "vegePerc": 43,
+    "vegeMp": 1
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 43,
+    "kezdMp": 56,
+    "vegeOra": 9,
+    "vegePerc": 48,
+    "vegeMp": 8
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 44,
+    "kezdMp": 36,
+    "vegeOra": 9,
+    "vegePerc": 48,
+    "vegeMp": 47
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 45,
+    "kezdMp": 52,
+    "vegeOra": 9,
+    "vegePerc": 49,
+    "vegeMp": 46
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 46,
+    "kezdMp": 56,
+    "vegeOra": 9,
+    "vegePerc": 47,
+    "vegeMp": 44
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 47,
+    "kezdMp": 53,
+    "vegeOra": 9,
+    "vegePerc": 49,
+    "vegeMp": 32
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 48,
+    "kezdMp": 45,
+    "vegeOra": 9,
+    "vegePerc": 50,
+    "vegeMp": 1
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 49,
+    "kezdMp": 12,
+    "vegeOra": 9,
+    "vegePerc": 54,
+    "vegeMp": 9
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 50,
+    "kezdMp": 35,
+    "vegeOra": 9,
+    "vegePerc": 52,
+    "vegeMp": 9
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 51,
+    "kezdMp": 40,
+    "vegeOra": 9,
+    "vegePerc": 55,
+    "vegeMp": 39
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 52,
+    "kezdMp": 46,
+    "vegeOra": 9,
+    "vegePerc": 55,
+    "vegeMp": 11
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 54,
+    "kezdMp": 8,
+    "vegeOra": 9,
+    "vegePerc": 55,
+    "vegeMp": 11
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 55,
+    "kezdMp": 30,
+    "vegeOra": 9,
+    "vegePerc": 58,
+    "vegeMp": 1
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 56,
+    "kezdMp": 5,
+    "vegeOra": 10,
+    "vegePerc": 0,
+    "vegeMp": 22
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 57,
+    "kezdMp": 25,
+    "vegeOra": 10,
+    "vegePerc": 1,
+    "vegeMp": 15
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 58,
+    "kezdMp": 22,
+    "vegeOra": 9,
+    "vegePerc": 59,
+    "vegeMp": 20
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 59,
+    "kezdMp": 8,
+    "vegeOra": 10,
+    "vegePerc": 4,
+    "vegeMp": 22
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 59,
+    "kezdMp": 24,
+    "vegeOra": 10,
+    "vegePerc": 2,
+    "vegeMp": 52
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 59,
+    "kezdMp": 41,
+    "vegeOra": 10,
+    "vegePerc": 3,
+    "vegeMp": 10
+  },
+  {
+    "kezdOra": 9,
+    "kezdPerc": 59,
+    "kezdMp": 55,
+    "vegeOra": 10,
+    "vegePerc": 3,
+    "vegeMp": 59
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 0,
+    "kezdMp": 37,
+    "vegeOra": 10,
+    "vegePerc": 1,
+    "vegeMp": 56
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 1,
+    "kezdMp": 40,
+    "vegeOra": 10,
+    "vegePerc": 6,
+    "vegeMp": 41
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 1,
+    "kezdMp": 44,
+    "vegeOra": 10,
+    "vegePerc": 2,
+    "vegeMp": 49
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 2,
+    "kezdMp": 24,
+    "vegeOra": 10,
+    "vegePerc": 5,
+    "vegeMp": 38
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 2,
+    "kezdMp": 56,
+    "vegeOra": 10,
+    "vegePerc": 4,
+    "vegeMp": 17
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 3,
+    "kezdMp": 1,
+    "vegeOra": 10,
+    "vegePerc": 4,
+    "vegeMp": 43
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 3,
+    "kezdMp": 44,
+    "vegeOra": 10,
+    "vegePerc": 6,
+    "vegeMp": 20
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 4,
+    "kezdMp": 59,
+    "vegeOra": 10,
+    "vegePerc": 9,
+    "vegeMp": 30
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 5,
+    "kezdMp": 35,
+    "vegeOra": 10,
+    "vegePerc": 6,
+    "vegeMp": 6
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 6,
+    "kezdMp": 26,
+    "vegeOra": 10,
+    "vegePerc": 6,
+    "vegeMp": 54
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 7,
+    "kezdMp": 50,
+    "vegeOra": 10,
+    "vegePerc": 10,
+    "vegeMp": 48
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 8,
+    "kezdMp": 46,
+    "vegeOra": 10,
+    "vegePerc": 13,
+    "vegeMp": 37
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 9,
+    "kezdMp": 0,
+    "vegeOra": 10,
+    "vegePerc": 11,
+    "vegeMp": 43
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 9,
+    "kezdMp": 52,
+    "vegeOra": 10,
+    "vegePerc": 13,
+    "vegeMp": 3
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 11,
+    "kezdMp": 1,
+    "vegeOra": 10,
+    "vegePerc": 13,
+    "vegeMp": 24
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 11,
+    "kezdMp": 10,
+    "vegeOra": 10,
+    "vegePerc": 11,
+    "vegeMp": 41
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 11,
+    "kezdMp": 53,
+    "vegeOra": 10,
+    "vegePerc": 16,
+    "vegeMp": 18
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 12,
+    "kezdMp": 14,
+    "vegeOra": 10,
+    "vegePerc": 14,
+    "vegeMp": 48
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 13,
+    "kezdMp": 23,
+    "vegeOra": 10,
+    "vegePerc": 13,
+    "vegeMp": 58
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 14,
+    "kezdMp": 28,
+    "vegeOra": 10,
+    "vegePerc": 19,
+    "vegeMp": 2
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 15,
+    "kezdMp": 27,
+    "vegeOra": 10,
+    "vegePerc": 20,
+    "vegeMp": 10
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 16,
+    "kezdMp": 33,
+    "vegeOra": 10,
+    "vegePerc": 21,
+    "vegeMp": 18
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 16,
+    "kezdMp": 36,
+    "vegeOra": 10,
+    "vegePerc": 19,
+    "vegeMp": 24
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 17,
+    "kezdMp": 36,
+    "vegeOra": 10,
+    "vegePerc": 22,
+    "vegeMp": 37
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 18,
+    "kezdMp": 58,
+    "vegeOra": 10,
+    "vegePerc": 19,
+    "vegeMp": 21
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 20,
+    "kezdMp": 5,
+    "vegeOra": 10,
+    "vegePerc": 25,
+    "vegeMp": 45
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 20,
+    "kezdMp": 39,
+    "vegeOra": 10,
+    "vegePerc": 24,
+    "vegeMp": 24
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 21,
+    "kezdMp": 9,
+    "vegeOra": 10,
+    "vegePerc": 22,
+    "vegeMp": 48
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 21,
+    "kezdMp": 39,
+    "vegeOra": 10,
+    "vegePerc": 24,
+    "vegeMp": 51
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 23,
+    "kezdMp": 5,
+    "vegeOra": 10,
+    "vegePerc": 25,
+    "vegeMp": 47
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 23,
+    "kezdMp": 7,
+    "vegeOra": 10,
+    "vegePerc": 26,
+    "vegeMp": 55
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 24,
+    "kezdMp": 11,
+    "vegeOra": 10,
+    "vegePerc": 26,
+    "vegeMp": 50
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 24,
+    "kezdMp": 14,
+    "vegeOra": 10,
+    "vegePerc": 28,
+    "vegeMp": 45
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 24,
+    "kezdMp": 28,
+    "vegeOra": 10,
+    "vegePerc": 26,
+    "vegeMp": 38
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 24,
+    "kezdMp": 29,
+    "vegeOra": 10,
+    "vegePerc": 27,
+    "vegeMp": 57
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 24,
+    "kezdMp": 55,
+    "vegeOra": 10,
+    "vegePerc": 27,
+    "vegeMp": 5
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 25,
+    "kezdMp": 19,
+    "vegeOra": 10,
+    "vegePerc": 25,
+    "vegeMp": 33
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 25,
+    "kezdMp": 48,
+    "vegeOra": 10,
+    "vegePerc": 28,
+    "vegeMp": 43
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 26,
+    "kezdMp": 42,
+    "vegeOra": 10,
+    "vegePerc": 27,
+    "vegeMp": 53
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 26,
+    "kezdMp": 52,
+    "vegeOra": 10,
+    "vegePerc": 30,
+    "vegeMp": 20
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 27,
+    "kezdMp": 16,
+    "vegeOra": 10,
+    "vegePerc": 30,
+    "vegeMp": 2
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 28,
+    "kezdMp": 43,
+    "vegeOra": 10,
+    "vegePerc": 31,
+    "vegeMp": 25
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 28,
+    "kezdMp": 46,
+    "vegeOra": 10,
+    "vegePerc": 31,
+    "vegeMp": 11
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 30,
+    "kezdMp": 6,
+    "vegeOra": 10,
+    "vegePerc": 35,
+    "vegeMp": 31
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 30,
+    "kezdMp": 43,
+    "vegeOra": 10,
+    "vegePerc": 31,
+    "vegeMp": 35
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 32,
+    "kezdMp": 7,
+    "vegeOra": 10,
+    "vegePerc": 33,
+    "vegeMp": 0
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 33,
+    "kezdMp": 8,
+    "vegeOra": 10,
+    "vegePerc": 34,
+    "vegeMp": 43
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 33,
+    "kezdMp": 49,
+    "vegeOra": 10,
+    "vegePerc": 38,
+    "vegeMp": 18
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 34,
+    "kezdMp": 54,
+    "vegeOra": 10,
+    "vegePerc": 40,
+    "vegeMp": 0
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 36,
+    "kezdMp": 7,
+    "vegeOra": 10,
+    "vegePerc": 38,
+    "vegeMp": 40
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 37,
+    "kezdMp": 31,
+    "vegeOra": 10,
+    "vegePerc": 37,
+    "vegeMp": 42
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 38,
+    "kezdMp": 41,
+    "vegeOra": 10,
+    "vegePerc": 40,
+    "vegeMp": 28
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 38,
+    "kezdMp": 45,
+    "vegeOra": 10,
+    "vegePerc": 39,
+    "vegeMp": 2
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 40,
+    "kezdMp": 1,
+    "vegeOra": 10,
+    "vegePerc": 42,
+    "vegeMp": 59
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 40,
+    "kezdMp": 47,
+    "vegeOra": 10,
+    "vegePerc": 45,
+    "vegeMp": 6
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 41,
+    "kezdMp": 13,
+    "vegeOra": 10,
+    "vegePerc": 41,
+    "vegeMp": 46
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 42,
+    "kezdMp": 19,
+    "vegeOra": 10,
+    "vegePerc": 45,
+    "vegeMp": 50
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 42,
+    "kezdMp": 23,
+    "vegeOra": 10,
+    "vegePerc": 46,
+    "vegeMp": 17
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 43,
+    "kezdMp": 29,
+    "vegeOra": 10,
+    "vegePerc": 45,
+    "vegeMp": 29
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 43,
+    "kezdMp": 42,
+    "vegeOra": 10,
+    "vegePerc": 48,
+    "vegeMp": 0
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 44,
+    "kezdMp": 5,
+    "vegeOra": 10,
+    "vegePerc": 48,
+    "vegeMp": 7
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 45,
+    "kezdMp": 10,
+    "vegeOra": 10,
+    "vegePerc": 47,
+    "vegeMp": 59
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 46,
+    "kezdMp": 23,
+    "vegeOra": 10,
+    "vegePerc": 49,
+    "vegeMp": 4
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 46,
+    "kezdMp": 46,
+    "vegeOra": 10,
+    "vegePerc": 51,
+    "vegeMp": 12
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 46,
+    "kezdMp": 48,
+    "vegeOra": 10,
+    "vegePerc": 47,
+    "vegeMp": 12
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 47,
+    "kezdMp": 5,
+    "vegeOra": 10,
+    "vegePerc": 51,
+    "vegeMp": 44
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 48,
+    "kezdMp": 19,
+    "vegeOra": 10,
+    "vegePerc": 52,
+    "vegeMp": 15
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 49,
+    "kezdMp": 5,
+    "vegeOra": 10,
+    "vegePerc": 49,
+    "vegeMp": 50
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 49,
+    "kezdMp": 32,
+    "vegeOra": 10,
+    "vegePerc": 54,
+    "vegeMp": 0
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 49,
+    "kezdMp": 42,
+    "vegeOra": 10,
+    "vegePerc": 53,
+    "vegeMp": 4
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 49,
+    "kezdMp": 53,
+    "vegeOra": 10,
+    "vegePerc": 50,
+    "vegeMp": 32
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 50,
+    "kezdMp": 30,
+    "vegeOra": 10,
+    "vegePerc": 53,
+    "vegeMp": 9
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 51,
+    "kezdMp": 9,
+    "vegeOra": 10,
+    "vegePerc": 52,
+    "vegeMp": 40
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 52,
+    "kezdMp": 31,
+    "vegeOra": 10,
+    "vegePerc": 54,
+    "vegeMp": 53
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 53,
+    "kezdMp": 29,
+    "vegeOra": 10,
+    "vegePerc": 56,
+    "vegeMp": 1
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 53,
+    "kezdMp": 34,
+    "vegeOra": 10,
+    "vegePerc": 56,
+    "vegeMp": 4
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 54,
+    "kezdMp": 4,
+    "vegeOra": 10,
+    "vegePerc": 59,
+    "vegeMp": 34
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 54,
+    "kezdMp": 10,
+    "vegeOra": 10,
+    "vegePerc": 54,
+    "vegeMp": 33
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 54,
+    "kezdMp": 51,
+    "vegeOra": 10,
+    "vegePerc": 57,
+    "vegeMp": 10
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 55,
+    "kezdMp": 31,
+    "vegeOra": 10,
+    "vegePerc": 59,
+    "vegeMp": 24
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 56,
+    "kezdMp": 43,
+    "vegeOra": 11,
+    "vegePerc": 1,
+    "vegeMp": 46
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 57,
+    "kezdMp": 26,
+    "vegeOra": 11,
+    "vegePerc": 2,
+    "vegeMp": 44
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 57,
+    "kezdMp": 34,
+    "vegeOra": 11,
+    "vegePerc": 1,
+    "vegeMp": 18
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 58,
+    "kezdMp": 46,
+    "vegeOra": 11,
+    "vegePerc": 0,
+    "vegeMp": 46
+  },
+  {
+    "kezdOra": 10,
+    "kezdPerc": 59,
+    "kezdMp": 22,
+    "vegeOra": 11,
+    "vegePerc": 1,
+    "vegeMp": 35
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 0,
+    "kezdMp": 30,
+    "vegeOra": 11,
+    "vegePerc": 3,
+    "vegeMp": 17
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 0,
+    "kezdMp": 52,
+    "vegeOra": 11,
+    "vegePerc": 5,
+    "vegeMp": 29
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 1,
+    "kezdMp": 12,
+    "vegeOra": 11,
+    "vegePerc": 4,
+    "vegeMp": 18
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 1,
+    "kezdMp": 35,
+    "vegeOra": 11,
+    "vegePerc": 3,
+    "vegeMp": 1
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 2,
+    "kezdMp": 44,
+    "vegeOra": 11,
+    "vegePerc": 5,
+    "vegeMp": 40
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 3,
+    "kezdMp": 28,
+    "vegeOra": 11,
+    "vegePerc": 3,
+    "vegeMp": 57
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 4,
+    "kezdMp": 19,
+    "vegeOra": 11,
+    "vegePerc": 8,
+    "vegeMp": 54
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 5,
+    "kezdMp": 12,
+    "vegeOra": 11,
+    "vegePerc": 6,
+    "vegeMp": 48
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 6,
+    "kezdMp": 25,
+    "vegeOra": 11,
+    "vegePerc": 9,
+    "vegeMp": 50
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 7,
+    "kezdMp": 24,
+    "vegeOra": 11,
+    "vegePerc": 12,
+    "vegeMp": 25
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 7,
+    "kezdMp": 31,
+    "vegeOra": 11,
+    "vegePerc": 10,
+    "vegeMp": 17
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 8,
+    "kezdMp": 33,
+    "vegeOra": 11,
+    "vegePerc": 10,
+    "vegeMp": 34
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 9,
+    "kezdMp": 58,
+    "vegeOra": 11,
+    "vegePerc": 10,
+    "vegeMp": 35
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 10,
+    "kezdMp": 52,
+    "vegeOra": 11,
+    "vegePerc": 14,
+    "vegeMp": 29
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 12,
+    "kezdMp": 4,
+    "vegeOra": 11,
+    "vegePerc": 15,
+    "vegeMp": 15
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 13,
+    "kezdMp": 22,
+    "vegeOra": 11,
+    "vegePerc": 15,
+    "vegeMp": 52
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 13,
+    "kezdMp": 54,
+    "vegeOra": 11,
+    "vegePerc": 18,
+    "vegeMp": 59
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 14,
+    "kezdMp": 41,
+    "vegeOra": 11,
+    "vegePerc": 17,
+    "vegeMp": 50
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 14,
+    "kezdMp": 58,
+    "vegeOra": 11,
+    "vegePerc": 17,
+    "vegeMp": 46
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 15,
+    "kezdMp": 36,
+    "vegeOra": 11,
+    "vegePerc": 18,
+    "vegeMp": 36
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 16,
+    "kezdMp": 22,
+    "vegeOra": 11,
+    "vegePerc": 16,
+    "vegeMp": 42
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 17,
+    "kezdMp": 17,
+    "vegeOra": 11,
+    "vegePerc": 19,
+    "vegeMp": 37
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 17,
+    "kezdMp": 47,
+    "vegeOra": 11,
+    "vegePerc": 20,
+    "vegeMp": 27
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 18,
+    "kezdMp": 38,
+    "vegeOra": 11,
+    "vegePerc": 18,
+    "vegeMp": 59
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 19,
+    "kezdMp": 9,
+    "vegeOra": 11,
+    "vegePerc": 19,
+    "vegeMp": 57
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 19,
+    "kezdMp": 27,
+    "vegeOra": 11,
+    "vegePerc": 20,
+    "vegeMp": 2
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 19,
+    "kezdMp": 42,
+    "vegeOra": 11,
+    "vegePerc": 24,
+    "vegeMp": 19
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 20,
+    "kezdMp": 10,
+    "vegeOra": 11,
+    "vegePerc": 24,
+    "vegeMp": 2
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 20,
+    "kezdMp": 13,
+    "vegeOra": 11,
+    "vegePerc": 24,
+    "vegeMp": 48
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 21,
+    "kezdMp": 11,
+    "vegeOra": 11,
+    "vegePerc": 24,
+    "vegeMp": 20
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 21,
+    "kezdMp": 49,
+    "vegeOra": 11,
+    "vegePerc": 25,
+    "vegeMp": 14
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 22,
+    "kezdMp": 58,
+    "vegeOra": 11,
+    "vegePerc": 26,
+    "vegeMp": 52
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 24,
+    "kezdMp": 7,
+    "vegeOra": 11,
+    "vegePerc": 29,
+    "vegeMp": 18
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 25,
+    "kezdMp": 0,
+    "vegeOra": 11,
+    "vegePerc": 28,
+    "vegeMp": 55
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 25,
+    "kezdMp": 34,
+    "vegeOra": 11,
+    "vegePerc": 30,
+    "vegeMp": 6
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 26,
+    "kezdMp": 41,
+    "vegeOra": 11,
+    "vegePerc": 29,
+    "vegeMp": 21
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 27,
+    "kezdMp": 31,
+    "vegeOra": 11,
+    "vegePerc": 29,
+    "vegeMp": 10
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 28,
+    "kezdMp": 19,
+    "vegeOra": 11,
+    "vegePerc": 32,
+    "vegeMp": 32
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 28,
+    "kezdMp": 48,
+    "vegeOra": 11,
+    "vegePerc": 33,
+    "vegeMp": 36
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 30,
+    "kezdMp": 3,
+    "vegeOra": 11,
+    "vegePerc": 32,
+    "vegeMp": 33
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 31,
+    "kezdMp": 5,
+    "vegeOra": 11,
+    "vegePerc": 36,
+    "vegeMp": 4
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 31,
+    "kezdMp": 33,
+    "vegeOra": 11,
+    "vegePerc": 34,
+    "vegeMp": 15
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 32,
+    "kezdMp": 7,
+    "vegeOra": 11,
+    "vegePerc": 34,
+    "vegeMp": 32
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 32,
+    "kezdMp": 48,
+    "vegeOra": 11,
+    "vegePerc": 37,
+    "vegeMp": 5
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 34,
+    "kezdMp": 14,
+    "vegeOra": 11,
+    "vegePerc": 34,
+    "vegeMp": 44
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 35,
+    "kezdMp": 12,
+    "vegeOra": 11,
+    "vegePerc": 38,
+    "vegeMp": 57
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 35,
+    "kezdMp": 17,
+    "vegeOra": 11,
+    "vegePerc": 38,
+    "vegeMp": 5
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 36,
+    "kezdMp": 10,
+    "vegeOra": 11,
+    "vegePerc": 41,
+    "vegeMp": 13
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 36,
+    "kezdMp": 21,
+    "vegeOra": 11,
+    "vegePerc": 40,
+    "vegeMp": 59
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 36,
+    "kezdMp": 27,
+    "vegeOra": 11,
+    "vegePerc": 39,
+    "vegeMp": 54
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 37,
+    "kezdMp": 22,
+    "vegeOra": 11,
+    "vegePerc": 39,
+    "vegeMp": 18
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 37,
+    "kezdMp": 29,
+    "vegeOra": 11,
+    "vegePerc": 40,
+    "vegeMp": 23
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 37,
+    "kezdMp": 41,
+    "vegeOra": 11,
+    "vegePerc": 40,
+    "vegeMp": 2
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 37,
+    "kezdMp": 57,
+    "vegeOra": 11,
+    "vegePerc": 38,
+    "vegeMp": 7
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 37,
+    "kezdMp": 57,
+    "vegeOra": 11,
+    "vegePerc": 40,
+    "vegeMp": 49
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 38,
+    "kezdMp": 23,
+    "vegeOra": 11,
+    "vegePerc": 40,
+    "vegeMp": 44
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 39,
+    "kezdMp": 49,
+    "vegeOra": 11,
+    "vegePerc": 43,
+    "vegeMp": 50
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 40,
+    "kezdMp": 32,
+    "vegeOra": 11,
+    "vegePerc": 41,
+    "vegeMp": 6
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 41,
+    "kezdMp": 18,
+    "vegeOra": 11,
+    "vegePerc": 44,
+    "vegeMp": 0
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 42,
+    "kezdMp": 11,
+    "vegeOra": 11,
+    "vegePerc": 42,
+    "vegeMp": 49
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 42,
+    "kezdMp": 23,
+    "vegeOra": 11,
+    "vegePerc": 45,
+    "vegeMp": 48
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 42,
+    "kezdMp": 31,
+    "vegeOra": 11,
+    "vegePerc": 47,
+    "vegeMp": 27
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 43,
+    "kezdMp": 55,
+    "vegeOra": 11,
+    "vegePerc": 46,
+    "vegeMp": 27
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 44,
+    "kezdMp": 38,
+    "vegeOra": 11,
+    "vegePerc": 47,
+    "vegeMp": 51
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 45,
+    "kezdMp": 11,
+    "vegeOra": 11,
+    "vegePerc": 48,
+    "vegeMp": 54
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 46,
+    "kezdMp": 22,
+    "vegeOra": 11,
+    "vegePerc": 48,
+    "vegeMp": 50
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 47,
+    "kezdMp": 48,
+    "vegeOra": 11,
+    "vegePerc": 51,
+    "vegeMp": 36
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 48,
+    "kezdMp": 50,
+    "vegeOra": 11,
+    "vegePerc": 52,
+    "vegeMp": 18
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 49,
+    "kezdMp": 13,
+    "vegeOra": 11,
+    "vegePerc": 52,
+    "vegeMp": 11
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 50,
+    "kezdMp": 24,
+    "vegeOra": 11,
+    "vegePerc": 53,
+    "vegeMp": 12
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 50,
+    "kezdMp": 36,
+    "vegeOra": 11,
+    "vegePerc": 53,
+    "vegeMp": 34
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 50,
+    "kezdMp": 36,
+    "vegeOra": 11,
+    "vegePerc": 54,
+    "vegeMp": 26
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 50,
+    "kezdMp": 46,
+    "vegeOra": 11,
+    "vegePerc": 52,
+    "vegeMp": 22
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 51,
+    "kezdMp": 14,
+    "vegeOra": 11,
+    "vegePerc": 55,
+    "vegeMp": 25
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 51,
+    "kezdMp": 58,
+    "vegeOra": 11,
+    "vegePerc": 55,
+    "vegeMp": 37
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 52,
+    "kezdMp": 48,
+    "vegeOra": 11,
+    "vegePerc": 57,
+    "vegeMp": 10
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 52,
+    "kezdMp": 50,
+    "vegeOra": 11,
+    "vegePerc": 57,
+    "vegeMp": 43
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 53,
+    "kezdMp": 14,
+    "vegeOra": 11,
+    "vegePerc": 58,
+    "vegeMp": 37
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 53,
+    "kezdMp": 48,
+    "vegeOra": 11,
+    "vegePerc": 54,
+    "vegeMp": 49
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 54,
+    "kezdMp": 50,
+    "vegeOra": 12,
+    "vegePerc": 0,
+    "vegeMp": 22
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 55,
+    "kezdMp": 47,
+    "vegeOra": 11,
+    "vegePerc": 56,
+    "vegeMp": 14
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 56,
+    "kezdMp": 18,
+    "vegeOra": 11,
+    "vegePerc": 57,
+    "vegeMp": 48
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 57,
+    "kezdMp": 30,
+    "vegeOra": 12,
+    "vegePerc": 2,
+    "vegeMp": 29
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 57,
+    "kezdMp": 52,
+    "vegeOra": 12,
+    "vegePerc": 1,
+    "vegeMp": 36
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 57,
+    "kezdMp": 54,
+    "vegeOra": 12,
+    "vegePerc": 1,
+    "vegeMp": 34
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 58,
+    "kezdMp": 52,
+    "vegeOra": 11,
+    "vegePerc": 59,
+    "vegeMp": 54
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 59,
+    "kezdMp": 25,
+    "vegeOra": 12,
+    "vegePerc": 3,
+    "vegeMp": 46
+  },
+  {
+    "kezdOra": 11,
+    "kezdPerc": 59,
+    "kezdMp": 53,
+    "vegeOra": 12,
+    "vegePerc": 2,
+    "vegeMp": 36
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 1,
+    "kezdMp": 4,
+    "vegeOra": 12,
+    "vegePerc": 3,
+    "vegeMp": 50
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 1,
+    "kezdMp": 42,
+    "vegeOra": 12,
+    "vegePerc": 6,
+    "vegeMp": 43
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 2,
+    "kezdMp": 33,
+    "vegeOra": 12,
+    "vegePerc": 5,
+    "vegeMp": 33
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 3,
+    "kezdMp": 13,
+    "vegeOra": 12,
+    "vegePerc": 3,
+    "vegeMp": 58
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 4,
+    "kezdMp": 7,
+    "vegeOra": 12,
+    "vegePerc": 6,
+    "vegeMp": 41
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 5,
+    "kezdMp": 13,
+    "vegeOra": 12,
+    "vegePerc": 5,
+    "vegeMp": 16
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 5,
+    "kezdMp": 26,
+    "vegeOra": 12,
+    "vegePerc": 5,
+    "vegeMp": 48
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 6,
+    "kezdMp": 44,
+    "vegeOra": 12,
+    "vegePerc": 7,
+    "vegeMp": 29
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 7,
+    "kezdMp": 21,
+    "vegeOra": 12,
+    "vegePerc": 9,
+    "vegeMp": 39
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 7,
+    "kezdMp": 27,
+    "vegeOra": 12,
+    "vegePerc": 8,
+    "vegeMp": 38
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 8,
+    "kezdMp": 27,
+    "vegeOra": 12,
+    "vegePerc": 10,
+    "vegeMp": 29
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 8,
+    "kezdMp": 52,
+    "vegeOra": 12,
+    "vegePerc": 13,
+    "vegeMp": 50
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 9,
+    "kezdMp": 28,
+    "vegeOra": 12,
+    "vegePerc": 11,
+    "vegeMp": 26
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 10,
+    "kezdMp": 29,
+    "vegeOra": 12,
+    "vegePerc": 14,
+    "vegeMp": 36
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 11,
+    "kezdMp": 2,
+    "vegeOra": 12,
+    "vegePerc": 16,
+    "vegeMp": 3
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 26,
+    "kezdMp": 30,
+    "vegeOra": 12,
+    "vegePerc": 31,
+    "vegeMp": 0
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 27,
+    "kezdMp": 18,
+    "vegeOra": 12,
+    "vegePerc": 27,
+    "vegeMp": 38
+  },
+  {
+    "kezdOra": 12,
+    "kezdPerc": 54,
+    "kezdMp": 51,
+    "vegeOra": 12,
+    "vegePerc": 55,
+    "vegeMp": 35
+  },
+  {
+    "kezdOra": 13,
+    "kezdPerc": 10,
+    "kezdMp": 26,
+    "vegeOra": 13,
+    "vegePerc": 12,
+    "vegeMp": 32
+  },
+  {
+    "kezdOra": 13,
+    "kezdPerc": 42,
+    "kezdMp": 31,
+    "vegeOra": 13,
+    "vegePerc": 43,
+    "vegeMp": 1
+  },
+  {
+    "kezdOra": 15,
+    "kezdPerc": 2,
+    "kezdMp": 23,
+    "vegeOra": 15,
+    "vegePerc": 6,
+    "vegeMp": 28
+  },
+  {
+    "kezdOra": 15,
+    "kezdPerc": 53,
+    "kezdMp": 14,
+    "vegeOra": 15,
+    "vegePerc": 55,
+    "vegeMp": 12
+  },
+  {
+    "kezdOra": 17,
+    "kezdPerc": 5,
+    "kezdMp": 53,
+    "vegeOra": 17,
+    "vegePerc": 8,
+    "vegeMp": 44
+  },
+  {
+    "kezdOra": 18,
+    "kezdPerc": 17,
+    "kezdMp": 31,
+    "vegeOra": 18,
+    "vegePerc": 17,
+    "vegeMp": 56
+  },
+  {
+    "kezdOra": 18,
+    "kezdPerc": 32,
+    "kezdMp": 11,
+    "vegeOra": 18,
+    "vegePerc": 34,
+    "vegeMp": 15
+  }
+]
